@@ -1,0 +1,14 @@
+D:\GOWI Projects\RiaRu\RiaRu\RiaRu.API\bin\Debug\netcoreapp2.2\RiaRu.API.deps.json
+D:\GOWI Projects\RiaRu\RiaRu\RiaRu.API\bin\Debug\netcoreapp2.2\RiaRu.API.runtimeconfig.json
+D:\GOWI Projects\RiaRu\RiaRu\RiaRu.API\bin\Debug\netcoreapp2.2\RiaRu.API.runtimeconfig.dev.json
+D:\GOWI Projects\RiaRu\RiaRu\RiaRu.API\bin\Debug\netcoreapp2.2\RiaRu.API.dll
+D:\GOWI Projects\RiaRu\RiaRu\RiaRu.API\bin\Debug\netcoreapp2.2\RiaRu.API.pdb
+D:\GOWI Projects\RiaRu\RiaRu\RiaRu.API\obj\Debug\netcoreapp2.2\RiaRu.API.csprojAssemblyReference.cache
+D:\GOWI Projects\RiaRu\RiaRu\RiaRu.API\obj\Debug\netcoreapp2.2\RiaRu.API.csproj.CoreCompileInputs.cache
+D:\GOWI Projects\RiaRu\RiaRu\RiaRu.API\obj\Debug\netcoreapp2.2\RiaRu.API.RazorAssemblyInfo.cache
+D:\GOWI Projects\RiaRu\RiaRu\RiaRu.API\obj\Debug\netcoreapp2.2\RiaRu.API.RazorAssemblyInfo.cs
+D:\GOWI Projects\RiaRu\RiaRu\RiaRu.API\obj\Debug\netcoreapp2.2\RiaRu.API.AssemblyInfoInputs.cache
+D:\GOWI Projects\RiaRu\RiaRu\RiaRu.API\obj\Debug\netcoreapp2.2\RiaRu.API.AssemblyInfo.cs
+D:\GOWI Projects\RiaRu\RiaRu\RiaRu.API\obj\Debug\netcoreapp2.2\RiaRu.API.RazorTargetAssemblyInfo.cache
+D:\GOWI Projects\RiaRu\RiaRu\RiaRu.API\obj\Debug\netcoreapp2.2\RiaRu.API.dll
+D:\GOWI Projects\RiaRu\RiaRu\RiaRu.API\obj\Debug\netcoreapp2.2\RiaRu.API.pdb
