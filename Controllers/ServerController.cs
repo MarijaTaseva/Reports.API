@@ -2,7 +2,7 @@ using System.Linq;
 using Microsoft.AspNetCore.Mvc;
 using RiaRu.API.Models;
 
-namespace RiaRu.API
+namespace RiaRu.API.Controllers
 {
     [Route("api/[controller]")]
     public class ServerController : Controller

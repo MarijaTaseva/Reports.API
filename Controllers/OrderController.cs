@@ -61,7 +61,7 @@ namespace RiaRu.API.Controllers
             var groupedResult = orders.GroupBy(o => o.Customer.Id)
             .ToList()
             .Select(grp => new {
-                State = _ctx.Customers.Find(grp.Key).Name,
+                Name = _ctx.Customers.Find(grp.Key).Name,
                 Total = grp.Sum(x => x.Total)
             }).OrderByDescending(res => res.Total)
             .Take(n)

@@ -21,6 +21,11 @@ namespace RiaRu.API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddCors(opt => {
+                opt.AddPolicy("CorsPolicy",
+                c => c.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod());
+            });
+
             _connectionString = Configuration["connectionString"];
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             services.AddEntityFrameworkNpgsql().AddDbContext<ApiContext>(opt => opt.UseNpgsql(_connectionString));
@@ -33,6 +38,7 @@ namespace RiaRu.API
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
+                app.UseCors("CorsPolicy");
             }
             else
             {
